@@ -10,6 +10,9 @@
 
 ---
 
+# modern-js-dev-slideshow
+NSS Modern JavaScript Developer jQuery Exercise 3.
+
 #JQuery Slideshow
 
 For this assignment you must use JQuery to make a slideshow.
